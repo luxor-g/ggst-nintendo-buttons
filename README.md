@@ -11,7 +11,7 @@ Works in the latest patch (Ver. 1.07).
 
 
 ## Screenshots
-[Link to Nexus Mods]()
+[Link to Nexus Mods](https://www.nexusmods.com/guiltygearstrive/mods/19?tab=images)
 
 
 ## TODO
